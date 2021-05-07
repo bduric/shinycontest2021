@@ -1,0 +1,14 @@
+name: Shiny-Sales
+title: Shiny-Sales
+username:
+account: myrna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4096868
+bundleId: 4571498
+url: https://myrna.shinyapps.io/Shiny-Sales/
+when: 1620415863.11012
+lastSyncTime: 1620415863.11013
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/atlantika16.png
